@@ -1,0 +1,39 @@
+{
+  "ciagniki": [
+    {
+      "producent": "John Deere",
+      "model": "6155M",
+      "moc_KM": 155,
+      "naped": "4x4",
+      "rok_produkcji": 2022
+    },
+    {
+      "producent": "New Holland",
+      "model": "T7.210",
+      "moc_KM": 210,
+      "naped": "4x4",
+      "rok_produkcji": 2021
+    },
+    {
+      "producent": "Case IH",
+      "model": "Optum 270 CVX",
+      "moc_KM": 270,
+      "naped": "4x4",
+      "rok_produkcji": 2023
+    },
+    {
+      "producent": "Fendt",
+      "model": "724 Vario",
+      "moc_KM": 240,
+      "naped": "4x4",
+      "rok_produkcji": 2022
+    },
+    {
+      "producent": "Ursus",
+      "model": "C-380",
+      "moc_KM": 75,
+      "naped": "4x2",
+      "rok_produkcji": 2019
+    }
+  ]
+}
